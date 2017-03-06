@@ -1,4 +1,4 @@
-# chatapp_itzfriday
+# chatapp_bob
 
 
 To update your local repo = > 'git pull' \n
